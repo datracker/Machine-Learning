@@ -1,1 +1,1 @@
-# Machine-Learning projects from hands on Machine Learning book
+# Machine-Learning projects from Hands on Machine Learning book
